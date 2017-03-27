@@ -1,4 +1,4 @@
-# Design-Mockup-Porfolio
+# Design-Mockup-Portfolio
 Design mockup portfolio quiz. Recreated a page to represent a .pdf file using HTML and CSS.
 
 ## How to run
