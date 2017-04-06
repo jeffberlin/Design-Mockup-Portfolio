@@ -84,8 +84,8 @@ header {
 }
 
 .sunflower {
-    height: 180px;
-    padding: 10px;
+  height: 180px;
+  padding: 10px;
 
 }
 
@@ -116,6 +116,7 @@ ul {
   color: #02b3e4;
   text-align: center;
   padding-top: 50px;
+
 }
 
 p {
