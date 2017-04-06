@@ -5,5 +5,7 @@ Design mockup portfolio quiz. Recreated a page to represent a .pdf file using HT
 * Download the .zip files
 * Open the `buildingportfolio.html` file in the browser of your choice.
 
+Here is a live version through GitHub: https://jeffberlin.github.io/Design-Mockup-Portfolio/buildingportfolio.html
+
 ### Project Guidelines
 This project was created to meet the specifications of the Build a Portolio Site for the Udacity front-end web development course. Here is the rubric: https://review.udacity.com/#!/rubrics/45/view
